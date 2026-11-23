@@ -1,0 +1,19 @@
+Use case: identity-preserve / pose transfer.
+
+Create ONE finished image of the character from Image 1 performing the pose in Image 2.
+
+IMAGE ROLES:
+
+Image 1 is the CHARACTER IDENTITY AND ART STYLE reference. If it is a model sheet, all panels depict the same character. Use the panels to understand the design; render only one character, not a sheet or collage.
+
+Image 2 is ONLY the POSE AND CAMERA reference: a neutral mannequin with construction guides. Transfer its body pose, limb bends, hand placement, head orientation, balance, ground contacts, camera angle and foreshortening. Use the surface wireframe and ground grid to understand volume and perspective, but do not render them. Do not copy the gray material, mannequin proportions or featureless face.
+
+KEEP FROM IMAGE 1: recognizable face, hairstyle, hair color, age, body design and proportions, outfit, garment colors and patterns, accessories, shoes, linework, textures and rendering style. Keep the original costume on the character; adapt folds and drape naturally to the new pose.
+
+Rendering: retain the character design and visual style closely. Change the pose and necessary clothing folds; avoid redesigning the face or costume.
+
+Composition: 1:1 canvas. One full-body character, including all visible hands and feet, with a small margin. Match the camera orientation and silhouette from Image 2; do not mirror the pose. Plain light neutral background and a soft contact shadow.
+
+No reference-sheet layout, labels, lettering, palette swatches, extra people, duplicate limbs, stickman, grid or wireframe in the result. Resolve hidden anatomy naturally without adding limbs.
+
+Return only the finished image.
